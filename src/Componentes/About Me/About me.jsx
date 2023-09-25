@@ -4,8 +4,8 @@ export default function SobreMi() {
   return (
     <>
       <section class="text-gray-600 body-font relative">
-        <div class="container px-5 mx-auto">
-          <div class="flex flex-col text-center w-full mb-12">
+        <div class="container px- mx-auto">
+          <div class="flex flex-col text-center w-full mb-10 mt-10">
             <h1 class="sm:text-4xl text-2xl font-medium title-font text-gray-900">
               Sobre Mi
             </h1>
@@ -13,9 +13,9 @@ export default function SobreMi() {
         </div>
       </section>
       <section class="text-gray-600 body-font">
-        <div class="container px-5 py-24 mx-auto">
-          <div class="xl:w-1/2 lg:w-3/4 w-full mx-auto text-center">
-            <p class="leading-relaxed text-lg">
+        <div class="container px-5 py-14 mx-auto">
+          <div class="xl:w-1/1 lg:w-3/4 w-full mx-auto text-center">
+            <p class="leading-relaxed text-xl mb-14">
               Edison bulb retro cloud bread echo park, helvetica stumptown
               taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
               ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
@@ -26,11 +26,10 @@ export default function SobreMi() {
               Slow-carb next level shoindigoitch ethical authentic, yr scenester
               sriracha forage franzen organic drinking vinegar.
             </p>
-            <span class="inline-block h-1 w-10 rounded bg-indigo-500 mt-8 mb-6"></span>
-            <h2 class="text-gray-900 font-medium title-font tracking-wider text-sm">
-              HOLDEN CAULFIELD
-            </h2>
           </div>
+          <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+            Descargar CV.
+          </button>
         </div>
       </section>
     </>
