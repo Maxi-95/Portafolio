@@ -5,7 +5,7 @@ export default function Servicios() {
     <>
       <section class="text-gray-600 body-font relative">
         <div class="container px-5 mx-auto">
-          <div class="flex flex-col text-center w-full mb-2 mt-5">
+          <div class="flex flex-col text-center w-full mb-8 mt-24">
             <h1 class="sm:text-4xl text-2xl font-medium title-font text-gray-900">
               Servicios
             </h1>

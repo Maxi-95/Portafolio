@@ -1,4 +1,5 @@
 import React from "react";
+import cv from "../Img/Curriculum vitae.pdf";
 
 export default function SobreMi() {
   return (
@@ -16,20 +17,20 @@ export default function SobreMi() {
         <div class="container px-5 py-14 mx-auto">
           <div class="xl:w-1/1 lg:w-3/4 w-full mx-auto text-center">
             <p class="leading-relaxed text-xl mb-14">
-              Edison bulb retro cloud bread echo park, helvetica stumptown
-              taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
-              ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-              adaptogen squid fanny pack vaporware. Man bun next level coloring
-              book skateboard four loko knausgaard. Kitsch keffiyeh master
-              cleanse direct trade indigo juice before they sold out gentrify
-              plaid gastropub normcore XOXO 90's pickled cindigo jean shorts.
-              Slow-carb next level shoindigoitch ethical authentic, yr scenester
-              sriracha forage franzen organic drinking vinegar.
+              Soy un Full Stack Developer con las habilidades y conocimientos
+              para llevar a cabo desarrollos y proyectos web, con buena
+              predisposicíon a la hora de trabajar en equipo y en constante
+              aprendisaje que poco a poco me ayuda a ser mejor. Me considero un
+              programador CREATIVO, desde que era niño siempre me gusto dibujar,
+              el arte visual era alguno con el que siempre me eh sentido
+              familiarizado, ahora elijo el mundo Front-end como mi mundo.
             </p>
           </div>
-          <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-            Descargar CV.
-          </button>
+          <a href={cv} download>
+            <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+              Descargar CV.
+            </button>
+          </a>
         </div>
       </section>
     </>
