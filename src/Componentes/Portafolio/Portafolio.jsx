@@ -6,7 +6,10 @@ export default function Portafolio() {
       <section class="text-gray-600 body-font relative">
         <div class="container px-5 mx-auto">
           <div class="flex flex-col text-center w-full mb-16 mt-20 ">
-            <h1 class="sm:text-4xl text-2xl font-medium title-font text-gray-900">
+            <h1
+              id="portafolio"
+              class="sm:text-4xl text-2xl font-medium title-font text-gray-900"
+            >
               Portafolio
             </h1>
           </div>
