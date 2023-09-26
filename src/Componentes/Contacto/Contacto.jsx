@@ -15,7 +15,7 @@ export default function Contacto() {
           </div>
         </div>
       </section>
-      <section class="text-gray-400 bg-gray-900 body-font relative">
+      <section class="text-gray-400 body-font relative">
         <div class="container px-5 py-24 mx-auto">
           <div class="lg:w-1/2 md:w-2/3 mx-auto">
             <div class="flex flex-wrap -m-2">

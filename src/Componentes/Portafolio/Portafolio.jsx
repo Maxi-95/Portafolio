@@ -16,7 +16,7 @@ export default function Portafolio() {
         </div>
       </section>
 
-      <section class="text-gray-400 bg-gray-900 body-font">
+      <section class="text-gray-400 body-font">
         <div class="container px-5 py-4 mx-auto">
           <div class="flex flex-wrap -mx-4 -mb-10 text-center">
             <div class="sm:w-1/2 mb-10 px-4">
@@ -60,7 +60,7 @@ export default function Portafolio() {
           </div>
         </div>
       </section>
-      <section class="text-gray-400 bg-gray-900 body-font">
+      <section class="text-gray-400 body-font">
         <div class="container px-5 py-5 mx-auto">
           <div class="flex flex-wrap -mx-4 -mb-10 text-center">
             <div class="sm:w-1/2 mb-8 px-4">

@@ -1,0 +1,10 @@
+/* Navbar.css */
+.navegador {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff; /* Cambia esto al color de fondo que desees */
+    z-index: 1000; /* Asegúrate de que esté por encima de otros elementos */
+    /* Agrega otros estilos de tu barra de navegación aquí */
+  }
