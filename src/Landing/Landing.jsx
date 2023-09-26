@@ -10,7 +10,7 @@ import Contacto from "../Componentes/Contacto/Contacto";
 
 export default function Landing() {
   return (
-    <>
+    <div class="bg-gray-900">
      <div className="navegador">
       <Navbar/>
       </div>
@@ -19,6 +19,6 @@ export default function Landing() {
       <Portafolio />
       <Servicios />
       <Contacto />
-    </>
+    </div>
   );
 }

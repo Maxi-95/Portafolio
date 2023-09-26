@@ -9,14 +9,14 @@ export default function SobreMi() {
           <div class="flex flex-col text-center w-full mb-10 mt-10">
             <h1
               id="sobre mi"
-              class="sm:text-4xl text-2xl font-medium title-font text-gray-900"
+              class="sm:text-4xl text-2xl font-medium title-font text-white"
             >
               Sobre Mi
             </h1>
           </div>
         </div>
       </section>
-      <section class="text-gray-600 body-font">
+      <section class="text-gray-500 body-font">
         <div class="container px-5 py-14 mx-auto">
           <div class="xl:w-1/1 lg:w-3/4 w-full mx-auto text-center">
             <p class="leading-relaxed text-xl mb-14">

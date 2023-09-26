@@ -8,7 +8,7 @@ export default function Portafolio() {
           <div class="flex flex-col text-center w-full mb-16 mt-20 ">
             <h1
               id="portafolio"
-              class="sm:text-4xl text-2xl font-medium title-font text-gray-900"
+              class="sm:text-4xl text-2xl font-medium title-font text-white"
             >
               Portafolio
             </h1>

@@ -8,7 +8,7 @@ export default function Servicios() {
           <div class="flex flex-col text-center w-full mb-8 mt-24">
             <h1
               id="servicios"
-              class="sm:text-4xl text-2xl font-medium title-font text-gray-900"
+              class="sm:text-4xl text-2xl font-medium title-font text-white"
             >
               Servicios
             </h1>

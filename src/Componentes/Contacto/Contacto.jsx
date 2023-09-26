@@ -3,12 +3,12 @@ import React from "react";
 export default function Contacto() {
   return (
     <>
-      <section class="text-gray-600 body-font relative">
+      <section class="text-white body-font relative">
         <div class="container px-5 mx-auto">
           <div class="flex flex-col text-center w-full mb-6 mt-24">
             <h1
               id="contacto"
-              class="sm:text-4xl text-2xl font-medium title-font text-gray-900"
+              class="sm:text-4xl text-2xl font-medium title-font text-white"
             >
               Contacto
             </h1>
