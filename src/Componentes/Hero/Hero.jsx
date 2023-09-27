@@ -26,7 +26,7 @@ export default function Hero() {
             <img
               class="object-cover object-center rounded"
               alt="hero"
-              src="https://dummyimage.com/720x600"
+              src="https://i.pinimg.com/564x/53/72/fd/5372fdee79dcf2625062093f31eee886.jpg"
             />
           </div>
         </div>

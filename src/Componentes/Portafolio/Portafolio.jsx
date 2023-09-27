@@ -28,14 +28,13 @@ export default function Portafolio() {
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-white mt-6 mb-3">
-                Buy YouTube Videos
+                Fast COLOR Pintureria
               </h2>
               <p class="leading-relaxed text-base">
-                Williamsburg occupy sustainable snackwave gochujang. Pinterest
-                cornhole brunch, slow-carb neutra irony.
+              Un sitio web para una pintureria automotriz que tiene una landing con toda la informacion general mas un apartado de contacto, sucursales, etc...
               </p>
               <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-                Button
+                Ver sitio
               </button>
             </div>
             <div class="sm:w-1/2 mb-10 px-4">
@@ -47,11 +46,10 @@ export default function Portafolio() {
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-white mt-6 mb-3">
-                The Catalyzer
+              TechNexus
               </h2>
               <p class="leading-relaxed text-base">
-                Williamsburg occupy sustainable snackwave gochujang. Pinterest
-                cornhole brunch, slow-carb neutra irony.
+              Este proyecto se basa en un ecommerce sobre productos de tecnologia, cumpliendo con los requisitos propuestos por Henry y con otras funcionalidades mas. 
               </p>
               <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
                 Button
@@ -72,14 +70,14 @@ export default function Portafolio() {
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-white mt-6 mb-3">
-                Buy YouTube Videos
+                All Market
               </h2>
               <p class="leading-relaxed text-base">
                 Williamsburg occupy sustainable snackwave gochujang. Pinterest
                 cornhole brunch, slow-carb neutra irony.
               </p>
               <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-                Button
+                Ver sitio
               </button>
             </div>
             <div class="sm:w-1/2 mb-10 px-4">
@@ -91,14 +89,14 @@ export default function Portafolio() {
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-white mt-6 mb-3">
-                The Catalyzer
+                VideoGames (Henry)
               </h2>
               <p class="leading-relaxed text-base">
-                Williamsburg occupy sustainable snackwave gochujang. Pinterest
-                cornhole brunch, slow-carb neutra irony.
+              El proyecto es un S.P.A (Single Page Application) sobre Videojuegos. Toda la información es extraída de la API, donde con diversas lógicas podemos mostrar los juegos en la página de manera diversificada y ordenada.
+
               </p>
               <button class="flex mx-auto mt-6 text-white bg-indigo-500 border-0 py-2 px-5 focus:outline-none hover:bg-indigo-600 rounded">
-                Button
+                Ver sitio
               </button>
             </div>
           </div>
