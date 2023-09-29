@@ -1,6 +1,8 @@
 import React from "react";
 //import './Hero.css';
 
+import imagen from "../Img/hero 4.png";
+
 export default function Hero() {
   return (
     <>
@@ -15,10 +17,9 @@ export default function Hero() {
 
             <div class="flex justify-center">
               <a href="#portafolio">
-              <button class="inline-flex text-white bg-indigo-500 border-0 py-3 px-7 focus:outline-none hover:bg-indigo-600 rounded text-2xl mt-4">
-                Mis proyectos
-              </button>
-
+                <button class="inline-flex text-white bg-blue-500 border-0 py-3 px-7 focus:outline-none hover:bg-indigo-600 rounded text-2xl mt-4">
+                  Mis proyectos
+                </button>
               </a>
             </div>
           </div>
@@ -26,7 +27,7 @@ export default function Hero() {
             <img
               class="object-cover object-center rounded"
               alt="hero"
-              src="https://i.pinimg.com/564x/53/72/fd/5372fdee79dcf2625062093f31eee886.jpg"
+              src={imagen}
             />
           </div>
         </div>
