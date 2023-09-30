@@ -33,12 +33,13 @@ export default function SobreMi() {
             <section class="text-white body-font relative">
               <div class="container px-5  mx-auto">
                 <div class="flex flex-col text-center w-full mt-6">
-                  <h1
-                    id="contacto"
-                    class="sm:text-4xl text-2xl font-medium py-8 title-font text-white"
-                  >
+                  <h1 class="sm:text-4xl text-2xl font-medium py-8 title-font text-white">
                     <span class="inline-flex">
-                      <a class="ml-4 text-gray-500">
+                      <a
+                        class="ml-4 text-gray-500"
+                        href="https://www.linkedin.com/in/miguel-maximiliano-fonseca-20ab32234/"
+                        target="_blank"
+                      >
                         <svg
                           class="h-8 w-8 text-gray-200"
                           viewBox="0 0 24 24"
@@ -54,7 +55,11 @@ export default function SobreMi() {
                           <circle cx="4" cy="4" r="2" />
                         </svg>
                       </a>
-                      <a class="ml-4 text-gray-500">
+                      <a
+                        class="ml-4 text-gray-500"
+                        href="https://github.com/Maxi-95"
+                        target="_blank"
+                      >
                         <svg
                           class="h-8 w-8 text-gray-200"
                           width="24"

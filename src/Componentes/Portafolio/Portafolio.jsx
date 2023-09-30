@@ -1,4 +1,8 @@
 import React from "react";
+import fastcolor from "../Img/fast color.png";
+import technexus from "../Img/tech nexus.png";
+import allmarket from "../Img/all market.png";
+import videogames from "../Img/video juego.png";
 
 export default function Portafolio() {
   return (
@@ -24,7 +28,7 @@ export default function Portafolio() {
                 <img
                   alt="content"
                   class="object-cover object-center h-full w-full"
-                  src="https://dummyimage.com/1201x501"
+                  src={fastcolor}
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-white mt-6 mb-3">
@@ -44,7 +48,7 @@ export default function Portafolio() {
                 <img
                   alt="content"
                   class="object-cover object-center h-full w-full"
-                  src="https://dummyimage.com/1202x502"
+                  src={technexus}
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-white mt-6 mb-3">
@@ -70,7 +74,7 @@ export default function Portafolio() {
                 <img
                   alt="content"
                   class="object-cover object-center h-full w-full"
-                  src="https://dummyimage.com/1201x501"
+                  src={allmarket}
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-white mt-6 mb-3">
@@ -89,7 +93,7 @@ export default function Portafolio() {
                 <img
                   alt="content"
                   class="object-cover object-center h-full w-full"
-                  src="https://dummyimage.com/1202x502"
+                  src={videogames}
                 />
               </div>
               <h2 class="title-font text-2xl font-medium text-white mt-6 mb-3">
