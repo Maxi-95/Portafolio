@@ -1,0 +1,17 @@
+/* Clase para el texto de sombra */
+.text-shadow {
+  position: relative;
+  z-index: -1;
+}
+
+/* Clase para el sombreado */
+.text-shadow::before {
+  content: attr(data-content);
+  position: absolute;
+  top: -2px;
+  right: 4px;
+  color: white;
+  /* Agrega tu definición de sombra de texto aquí si es necesario */
+}
+
+/* Otras reglas de estilo aquí */

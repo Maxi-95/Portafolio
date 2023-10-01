@@ -11,6 +11,7 @@
     "build-css": "tailwindcss build src/custom-styles.css -o public/custom-build.css"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.11.0",
     "autoprefixer": "^10.4.16",
     "bootstrap": "^5.3.2",
     "postcss": "^8.4.30",

@@ -11,8 +11,8 @@ import Contacto from "../Componentes/Contacto/Contacto";
 export default function Landing() {
   return (
     <div class="bg-gray-900">
-     <div className="navegador">
-      <Navbar/>
+      <div className="navegador">
+        <Navbar />
       </div>
       <Hero />
       <SobreMi />
