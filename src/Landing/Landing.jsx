@@ -7,6 +7,7 @@ import Portafolio from "../Componentes/Portafolio/Portafolio";
 import "./Landing.css";
 import SobreMi from "../Componentes/About Me/About me";
 import Contacto from "../Componentes/Contacto/Contacto";
+import Productos from "../Componentes/loProductos/losProductos";
 
 export default function Landing() {
   return (
@@ -19,6 +20,7 @@ export default function Landing() {
       <Portafolio />
       <Servicios />
       <Contacto />
+      <Productos/>
     </div>
   );
 }
