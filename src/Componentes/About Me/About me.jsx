@@ -18,12 +18,6 @@ export default function SobreMi() {
         </div>
       </section>
 
-      <div class="text-center">
-        <h1 class="text-4xl text-blue-500 relative inline-block">
-          <span className="text-red-500">Texto en rojo</span>
-        </h1>
-      </div>
-
       <section class="text-gray-500 body-font">
         <div class="container px-5 py-10 mx-auto">
           <div class="xl:w-1/1 lg:w-3/4 w-full mx-auto text-center">

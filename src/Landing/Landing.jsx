@@ -7,12 +7,12 @@ import Portafolio from "../Componentes/Portafolio/Portafolio";
 import "./Landing.css";
 import SobreMi from "../Componentes/About Me/About me";
 import Contacto from "../Componentes/Contacto/Contacto";
-import Productos from "../Componentes/loProductos/losProductos";
+
 
 export default function Landing() {
   return (
     <div class="bg-gray-900">
-      <div className="navegador">
+      <div>
         <Navbar />
       </div>
       <Hero />
@@ -20,7 +20,7 @@ export default function Landing() {
       <Portafolio />
       <Servicios />
       <Contacto />
-      <Productos/>
+     
     </div>
   );
 }
